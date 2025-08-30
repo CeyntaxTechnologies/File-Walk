@@ -11,7 +11,20 @@ File Walk is a powerful file management utility designed to help you organize, c
 - 🔍 **Advanced File Search** – Quickly find files using keywords, extensions, or metadata.  
 - 🧹 **Duplicate Detection & Cleanup** – Identify and remove duplicate files to free up space.  
 - ⚡ **Fast & Lightweight** – Optimized for speed and minimal resource usage.  
-- 🔒 **Safe & Reliable** – Preview before deletion and prevent accidental data loss.  
+- 🔒 **Safe & Reliable** – Preview before deletion and prevent accidental data loss.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 © Copyright 2025 Dushshantha Rajkumar (Ceyntax Technologies)
 
