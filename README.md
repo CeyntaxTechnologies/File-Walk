@@ -15,16 +15,5 @@ File Walk is a powerful file management utility designed to help you organize, c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 © Copyright 2025 Dushshantha Rajkumar (Ceyntax Technologies)
 
